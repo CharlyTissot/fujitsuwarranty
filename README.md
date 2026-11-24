@@ -15,7 +15,7 @@
 
 Le menu est enregistré indépendamment de la session courante. La classe de menu et report.php contrôlent le droit `computer` READ. Après mise à jour, déconnectez/reconnectez les utilisateurs.
 
-# Fujitsu Warranty v1.1.1 — GLPI 10
+# Fujitsu Warranty v1.1.1 — GLPI 10 - 12
 
 Créateur : **Charly TISSOT PROXIMIWEB** — GPLv3+
 
@@ -62,4 +62,4 @@ Nouveau menu **Parc > Rapport des garanties** pour les profils disposant du droi
 
 
 ## v1.2.2
-Correction du rapport : suppression de Session::getActiveEntities() et utilisation des entités de session GLPI 10.
+Correction du rapport : suppression de Session::getActiveEntities() et utilisation des entités de session GLPI 10 - 12.
